@@ -1,0 +1,29 @@
+Script started on 2019-01-13 21:19:09-0800
+]0;alarfdah@ubuntu: ~/Documents/wmu/cs5541/a2[01;32malarfdah@ubuntu[00m:[01;34m~/Documents/wmu/cs5541/a2[00m$ make
+gcc -std=c99 -Wall -o Number_Demonestrations Number_Demonestrations.c
+[01m[KNumber_Demonestrations.c:[m[K In function ‘[01m[Kmain[m[K’:
+[01m[KNumber_Demonestrations.c:42:15:[m[K [01;35m[Kwarning: [m[Kinteger overflow in expression [[01;35m[K-Woverflow[m[K]
+  prob5 = 50000[01;35m[K*[m[K50000;
+               [01;35m[K^[m[K
+[01m[KNumber_Demonestrations.c:46:15:[m[K [01;35m[Kwarning: [m[Kinteger overflow in expression [[01;35m[K-Woverflow[m[K]
+  prob5 = 60000[01;35m[K*[m[K60000;
+               [01;35m[K^[m[K
+]0;alarfdah@ubuntu: ~/Documents/wmu/cs5541/a2[01;32malarfdah@ubuntu[00m:[01;34m~/Documents/wmu/cs5541/a2[00m$ ./Number_Demonestrations 
+Problem 1: 3.5999999046
+Problem 2: 0.1000000015
+Problem 3.1: 0.000000
+Problem 3.2: 0.500000
+Problem 4.1: 9999999.450000
+Problem 4.2: 9999999.000000
+Problem 5.1: 900000000
+Problem 5.2: 1600000000
+Problem 5.3: -1794967296
+Problem 5.4: -694967296
+Problem 6.1: 100000002004087734272.000000
+Problem 6.2: 100000002004087734272.000000
+Problem 6.3: 103500002601996386304.000000
+Problem 6.4: 100000002004087734272.000000
+]0;alarfdah@ubuntu: ~/Documents/wmu/cs5541/a2[01;32malarfdah@ubuntu[00m:[01;34m~/Documents/wmu/cs5541/a2[00m$ exit
+exit
+
+Script done on 2019-01-13 21:19:17-0800
