@@ -1,20 +1,21 @@
+
 Date: 01/20/2019
 Class: CS5541
 Assignment: Assignment 2 - Number_Demonestrations
 Author: Ahmed Radwan
 
 ## Command used to compile
-#  gcc -std=c99 -Wall -o Number_Demonestrations Number_Demonestrations.c
+`gcc -std=c99 -Wall -o Number_Demonestrations Number_Demonestrations.c`
 
 
 ## Command to run script
-#  scriptreplay a2script.log -t time.log
+`scriptreplay a2script.log -t time.log`
 
 ## Warnings
-#  Integer overflow warnings
+`Integer overflow warnings`
 
 ## References
-#  None
+None
 
 ## Results
 
